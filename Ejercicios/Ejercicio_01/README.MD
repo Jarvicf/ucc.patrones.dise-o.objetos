@@ -13,6 +13,10 @@ Este repositorio contiene la solución al **Ejercicio 1** del curso de **Patrone
 - **Captura de funcionamiento** 📸 → Imagen demostrativa de la ejecución.  
 - **Respuesta en Word** 📝 → Documento word donde se encontrara la respuesta a los ejercios en clase.  
 
+
+![Descripción de la imagen](Captura.png)
+
+
 ---
 
 ## 📂 Estructura del Repositorio  
