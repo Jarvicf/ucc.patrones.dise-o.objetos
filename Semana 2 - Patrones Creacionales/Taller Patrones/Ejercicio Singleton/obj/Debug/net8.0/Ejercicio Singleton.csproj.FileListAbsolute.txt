@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\bin\Debug\net8.0\Ejercicio Singleton.exe
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\bin\Debug\net8.0\Ejercicio Singleton.deps.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\bin\Debug\net8.0\Ejercicio Singleton.runtimeconfig.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\bin\Debug\net8.0\Ejercicio Singleton.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\bin\Debug\net8.0\Ejercicio Singleton.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\Ejercicio Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\Ejercicio Singleton.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\Ejercicio Singleton.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\Ejercicio Singleton.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\Ejercicio Singleton.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\refint\Ejercicio Singleton.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\Ejercicio Singleton.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\Ejercicio Singleton.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Singleton\obj\Debug\net8.0\ref\Ejercicio Singleton.dll

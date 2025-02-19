@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jdrom\\source\\repos\\Ejercicios\\Ejercicio Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD751EF7-44C2-4ADD-BC49-D7C322768895}|..\\Ejercicio FactoryMethod\\FactoryMethod\\FactoryMethod.csproj|c:\\users\\jdrom\\source\\repos\\ejercicios\\ejercicio factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jdrom\\source\\repos\\Ejercicios\\Ejercicio FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio FactoryMethod\\FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\jdrom\\source\\repos\\Ejercicios\\Ejercicio FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio FactoryMethod\\FactoryMethod\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:14:44.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
