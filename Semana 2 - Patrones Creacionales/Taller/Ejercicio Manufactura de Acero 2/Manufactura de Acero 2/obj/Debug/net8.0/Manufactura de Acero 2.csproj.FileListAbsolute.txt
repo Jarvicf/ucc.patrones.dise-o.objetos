@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\Manufactura de Acero 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\Manufactura de Acero 2.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\Manufactura de Acero 2.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\Manufactura de Acero 2.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\bin\Debug\net8.0\Manufactura de Acero 2.exe
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\bin\Debug\net8.0\Manufactura de Acero 2.deps.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\bin\Debug\net8.0\Manufactura de Acero 2.runtimeconfig.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\bin\Debug\net8.0\Manufactura de Acero 2.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\bin\Debug\net8.0\Manufactura de Acero 2.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\Manufactura de Acero 2.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\refint\Manufactura de Acero 2.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\Manufactura de Acero 2.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\Manufactura de Acero 2.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Manufactura de Acero 2\Manufactura de Acero 2\obj\Debug\net8.0\ref\Manufactura de Acero 2.dll

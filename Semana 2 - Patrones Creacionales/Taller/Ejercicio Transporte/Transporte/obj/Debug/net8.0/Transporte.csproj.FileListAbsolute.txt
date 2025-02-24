@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\bin\Debug\net8.0\Transporte.exe
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\bin\Debug\net8.0\Transporte.deps.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\bin\Debug\net8.0\Transporte.runtimeconfig.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\bin\Debug\net8.0\Transporte.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\bin\Debug\net8.0\Transporte.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\Transporte.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\Transporte.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\Transporte.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\refint\Transporte.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\Transporte.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\Transporte.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Transporte\Transporte\obj\Debug\net8.0\ref\Transporte.dll

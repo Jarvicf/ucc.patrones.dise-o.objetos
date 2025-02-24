@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\bin\Debug\net8.0\Recreación.exe
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\bin\Debug\net8.0\Recreación.deps.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\bin\Debug\net8.0\Recreación.runtimeconfig.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\bin\Debug\net8.0\Recreación.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\bin\Debug\net8.0\Recreación.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\Recreación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\Recreación.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\Recreación.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\Recreación.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\Recreación.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\refint\Recreación.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\Recreación.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\Recreación.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Recreación\Recreación\obj\Debug\net8.0\ref\Recreación.dll

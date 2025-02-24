@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\bin\Debug\net8.0\Bancos.exe
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\bin\Debug\net8.0\Bancos.deps.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\bin\Debug\net8.0\Bancos.runtimeconfig.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\bin\Debug\net8.0\Bancos.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\bin\Debug\net8.0\Bancos.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\Bancos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\Bancos.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\Bancos.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\Bancos.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\Bancos.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\refint\Bancos.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\Bancos.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\Bancos.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejercicio Bancos\Bancos\obj\Debug\net8.0\ref\Bancos.dll

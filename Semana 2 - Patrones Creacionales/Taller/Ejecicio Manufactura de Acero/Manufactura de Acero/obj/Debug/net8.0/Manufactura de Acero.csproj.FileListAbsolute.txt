@@ -1,0 +1,28 @@
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.exe
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.deps.json
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.runtimeconfig.json
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.dll
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.dll
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\refint\Manufactura de Acero.dll
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Ejercicios\Manufactura de Acero\obj\Debug\net8.0\ref\Manufactura de Acero.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.exe
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.deps.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.runtimeconfig.json
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\bin\Debug\net8.0\Manufactura de Acero.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\refint\Manufactura de Acero.dll
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.pdb
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\Manufactura de Acero.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Ejercicios\Ejecicio Manufactura de Acero\Manufactura de Acero\obj\Debug\net8.0\ref\Manufactura de Acero.dll
