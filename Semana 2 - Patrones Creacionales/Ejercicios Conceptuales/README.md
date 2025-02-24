@@ -1,4 +1,4 @@
-🏛️ Taller Conceptual sobre Patrones de Diseño Creacionales
+🏛️ Taller Conceptual sobre Patrones de Diseño Creacionales.
 
 📌 Propósito
 
