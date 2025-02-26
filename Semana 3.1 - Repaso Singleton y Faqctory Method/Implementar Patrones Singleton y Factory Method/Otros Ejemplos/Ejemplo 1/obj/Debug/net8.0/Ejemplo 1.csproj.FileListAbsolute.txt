@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\bin\Debug\net8.0\Ejemplo 1.exe
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\bin\Debug\net8.0\Ejemplo 1.deps.json
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\bin\Debug\net8.0\Ejemplo 1.runtimeconfig.json
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\bin\Debug\net8.0\Ejemplo 1.dll
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\bin\Debug\net8.0\Ejemplo 1.pdb
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\Ejemplo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\Ejemplo 1.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\Ejemplo 1.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\Ejemplo 1.dll
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\refint\Ejemplo 1.dll
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\Ejemplo 1.pdb
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\Ejemplo 1.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Semana 3\Implementar Patrones\Otros Ejemplos\Ejemplo 1\Ejemplo 1\obj\Debug\net8.0\ref\Ejemplo 1.dll
