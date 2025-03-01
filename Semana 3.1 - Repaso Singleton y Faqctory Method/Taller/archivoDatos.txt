@@ -1,0 +1,20 @@
+# Archivo de empleados con formato: Nombre, Cédula, Salario, Ley
+# Cada línea representa un empleado y los valores deben estar separados por comas (,).
+# Leyes disponibles:
+#   - Ley 78: Recibe 15 salarios.
+#   - Ley 86: Recibe 5 salarios.
+#   - Ley 98: Recibe 2.5 salarios.
+#   - Ley 100: Recibe el promedio de los últimos 10 años.
+#   - Ley Petro: Tope máximo de 3.5 salarios, menores solo reciben el 70%.
+# Ejemplo de formato correcto:
+
+Juan Pérez, 1001234567, 3000000, Ley 78
+María Gómez, 1012345678, 2500000, Ley 86
+Carlos Rodríguez, 1023456789, 1800000, Ley 98
+Ana Martínez, 1034567890, 4000000, Ley 100
+Pedro Sánchez, 1045678901, 3500000, Ley Petro
+Luisa Fernández, 1056789012, 2000000, Ley Petro
+Ricardo Torres, 1067890123, 5000000, Ley 78
+Elena Ramírez, 1078901234, 2200000, Ley 98
+Germán Castro, 1089012345, 3800000, Ley 100
+Sofía Herrera, 1090123456, 3200000, Ley 86

@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\LiquidacionPension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\LiquidacionPension.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\LiquidacionPension.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\LiquidacionPension.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\bin\Debug\net8.0\LiquidacionPension.exe
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\bin\Debug\net8.0\LiquidacionPension.deps.json
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\bin\Debug\net8.0\LiquidacionPension.runtimeconfig.json
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\bin\Debug\net8.0\LiquidacionPension.dll
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\bin\Debug\net8.0\LiquidacionPension.pdb
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\LiquidacionPension.dll
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\refint\LiquidacionPension.dll
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\LiquidacionPension.pdb
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\LiquidacionPension.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Semana 3\Ejercicio en Clase\Ejercicio 2 - Liquidacion Pension\LiquidacionPension\obj\Debug\net8.0\ref\LiquidacionPension.dll
