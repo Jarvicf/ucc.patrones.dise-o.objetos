@@ -1,4 +1,6 @@
 ﻿using LiquidacionPension;
+using System.Collections.Generic;
+using System;
 
 namespace co.edu.ucc.Jarvic.Liquidacion
 {
@@ -7,7 +9,7 @@ namespace co.edu.ucc.Jarvic.Liquidacion
         void Pagar();
     }
 
-    public class Ley78 (decimal salario, string empleado) : Liquidacion
+    public class Ley78(decimal salario, string empleado) : Liquidacion
     {
         public void Pagar()
         {
@@ -38,7 +40,6 @@ namespace co.edu.ucc.Jarvic.Liquidacion
     {
         public void Pagar()
         {
-            
             Console.WriteLine(empleado + salario);
         }
     }
@@ -47,8 +48,13 @@ namespace co.edu.ucc.Jarvic.Liquidacion
     {
         public void Pagar()
         {
-            
-            Console.WriteLine(empleado + salario);
+            decimal sal = salario;
+
+            if (salario >= 3500000)
+            {
+                sal = salario / 70 * 100;
+            }
+            Console.WriteLine(empleado + sal);
         }
     }
 
@@ -63,7 +69,8 @@ namespace co.edu.ucc.Jarvic.Liquidacion
                 {
                     return new Ley78(Salario, empleado);
 
-                }else if(ley == "Ley 86")
+                }
+                else if (ley == "Ley 86")
                 {
                     return new Ley86(Salario, empleado);
                 }
@@ -79,7 +86,7 @@ namespace co.edu.ucc.Jarvic.Liquidacion
                 {
                     return new leyPetro(Salario, empleado);
                 }
-                
+
             }
             catch (Exception ex)
             {
@@ -110,7 +117,7 @@ namespace co.edu.ucc.Jarvic.Liquidacion
 
                 for (int i = 0; i < empleados.Count; i++)
                 {
-                    Liquidacion l1 = Liquidar.liquidacion(empleados[i].Salario, empleados[i].Ley, "El empleado " + empleados[i].Nombre + " se debe liquidar con $" );
+                    Liquidacion l1 = Liquidar.liquidacion(empleados[i].Salario, empleados[i].Ley, "El empleado " + empleados[i].Nombre + " se debe liquidar con $");
                     l1.Pagar();
                 }
 
@@ -123,7 +130,7 @@ namespace co.edu.ucc.Jarvic.Liquidacion
 
                 throw ex;
             }
-            
+
         }
     }
 }
