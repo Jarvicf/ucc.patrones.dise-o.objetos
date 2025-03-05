@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jdrom\\source\\repos\\Semana 4\\Ejercicios En Clase\\Abstract Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078F3EB3-B743-410F-95B6-7AE315E6E6EB}|..\\Prototype\\Prototype\\Prototype.csproj|c:\\users\\jdrom\\source\\repos\\semana 4\\ejercicios en clase\\prototype\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F309789-11B4-4284-BE1B-22F508BBB813}|..\\Builder\\Builder\\Builder.csproj|c:\\users\\jdrom\\source\\repos\\semana 4\\ejercicios en clase\\builder\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B915AD0-1D6F-47A8-B917-0EB38F0B0199}|Abstract Factory\\Abstract Factory.csproj|c:\\users\\jdrom\\source\\repos\\semana 4\\ejercicios en clase\\abstract factory\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B915AD0-1D6F-47A8-B917-0EB38F0B0199}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jdrom\\source\\repos\\Semana 4\\Ejercicios En Clase\\Prototype\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Prototype\\Prototype\\Program.cs",
+              "ToolTip": "C:\\Users\\jdrom\\source\\repos\\Semana 4\\Ejercicios En Clase\\Prototype\\Prototype\\Program.cs",
+              "RelativeToolTip": "..\\Prototype\\Prototype\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAADsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:17:45.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jdrom\\source\\repos\\Semana 4\\Ejercicios En Clase\\Builder\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Builder\\Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\jdrom\\source\\repos\\Semana 4\\Ejercicios En Clase\\Builder\\Builder\\Program.cs",
+              "RelativeToolTip": "..\\Builder\\Builder\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA/wE4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:03:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jdrom\\source\\repos\\Semana 4\\Ejercicios En Clase\\Abstract Factory\\Abstract Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\jdrom\\source\\repos\\Semana 4\\Ejercicios En Clase\\Abstract Factory\\Abstract Factory\\Program.cs",
+              "RelativeToolTip": "Abstract Factory\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:43:23.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
