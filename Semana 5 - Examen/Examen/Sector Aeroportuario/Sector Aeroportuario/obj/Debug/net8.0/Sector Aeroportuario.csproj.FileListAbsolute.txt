@@ -1,0 +1,14 @@
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\bin\Debug\net8.0\Sector Aeroportuario.exe
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\bin\Debug\net8.0\Sector Aeroportuario.deps.json
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\bin\Debug\net8.0\Sector Aeroportuario.runtimeconfig.json
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\bin\Debug\net8.0\Sector Aeroportuario.dll
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\bin\Debug\net8.0\Sector Aeroportuario.pdb
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\Sector Aeroportuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\Sector Aeroportuario.AssemblyInfoInputs.cache
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\Sector Aeroportuario.AssemblyInfo.cs
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\Sector Aeroportuario.csproj.CoreCompileInputs.cache
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\Sector Aeroportuario.dll
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\refint\Sector Aeroportuario.dll
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\Sector Aeroportuario.pdb
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\Sector Aeroportuario.genruntimeconfig.cache
+C:\Users\jdrom\source\repos\Semana 5\Examen\Sector Aeroportuario\Sector Aeroportuario\obj\Debug\net8.0\ref\Sector Aeroportuario.dll
