@@ -44,6 +44,8 @@ class PoolConexiones {
  
 public class Main {
     public static void main(String[] args) {
+
+        
         PoolConexiones pool = new PoolConexiones(2);
         
         ConexionDB c1 = pool.obtenerConexion();
