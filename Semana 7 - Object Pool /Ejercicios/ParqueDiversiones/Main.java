@@ -44,6 +44,7 @@ class PoolEquiposVR {
  
 public class Main {
     public static void main(String[] args) {
+        
         PoolEquiposVR pool = new PoolEquiposVR(3);
         
         EquipoVR e1 = pool.obtenerEquipo();
