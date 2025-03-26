@@ -45,7 +45,9 @@ class PoolConexiones {
 public class Main {
     public static void main(String[] args) {
 
-        
+        GetIdentidad getIdentidad = new GetIdentidad("Patrón Object Pool","");
+        getIdentidad.getEncabezado();
+
         PoolConexiones pool = new PoolConexiones(2);
         
         ConexionDB c1 = pool.obtenerConexion();
@@ -57,5 +59,7 @@ public class Main {
         
         ConexionDB c4 = pool.obtenerConexion(); // Ahora sí hay conexión disponible
         c4.ejecutarConsulta("INSERT INTO transacciones VALUES (1, 100)");
+        getIdentidad.getNombre();
+        getIdentidad.getPatron();
     }
 }

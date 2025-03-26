@@ -43,7 +43,9 @@ class PoolCamillas {
  
 public class Main {
     public static void main(String[] args) {
-        
+        GetIdentidad getIdentidad = new GetIdentidad("Patrón Object Pool","");
+        getIdentidad.getEncabezado();
+
         PoolCamillas pool = new PoolCamillas(3);
         
         Camilla c1 = pool.obtenerCamilla();
@@ -54,5 +56,8 @@ public class Main {
         
         Camilla c3 = pool.obtenerCamilla();
         c3.asignarPaciente("Pedro");
+        
+        getIdentidad.getNombre();
+        getIdentidad.getPatron();
     }
 }

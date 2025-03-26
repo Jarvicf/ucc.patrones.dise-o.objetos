@@ -44,7 +44,9 @@ class PoolEquiposVR {
  
 public class Main {
     public static void main(String[] args) {
-        
+        GetIdentidad getIdentidad = new GetIdentidad("Patrón Object Pool","");
+        getIdentidad.getEncabezado();
+
         PoolEquiposVR pool = new PoolEquiposVR(3);
         
         EquipoVR e1 = pool.obtenerEquipo();
@@ -55,5 +57,8 @@ public class Main {
         
         EquipoVR e3 = pool.obtenerEquipo();
         e3.asignarUsuario("Ana");
+
+        getIdentidad.getNombre();
+        getIdentidad.getPatron();
     }
 }

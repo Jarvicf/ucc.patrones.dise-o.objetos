@@ -43,6 +43,9 @@ class PoolVehiculos {
 
 public class Main {
     public static void main(String[] args) {
+        GetIdentidad getIdentidad = new GetIdentidad("Patrón Object Pool","");
+        getIdentidad.getEncabezado();
+        
         PoolVehiculos pool = new PoolVehiculos(2);
         
         VehiculoTuristico v1 = pool.obtenerVehiculo();
@@ -54,6 +57,8 @@ public class Main {
         
         VehiculoTuristico v4 = pool.obtenerVehiculo(); // Ahora hay uno disponible
         v4.asignarRecorrido("Visita a las montañas");
+        getIdentidad.getNombre();
+        getIdentidad.getPatron();
     }
 
 }
