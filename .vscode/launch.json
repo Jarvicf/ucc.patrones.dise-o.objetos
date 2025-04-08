@@ -9,6 +9,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "Semana_9_Ejercicio_Historia_Usuario_Adapter_Bridge.Ejercicio.Jarvic_Empresa_Logistica.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_9_Ejercicio_Historia_Usuario_Adapter_Bridge.Ejercicio.Jarvic_Empresa_Logistica.Main",
             "projectName": "ucc.patrones.dise-o.objetos_9ca4be41"
         },
         {
