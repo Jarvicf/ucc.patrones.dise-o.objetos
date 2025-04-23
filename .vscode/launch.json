@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Semana_12_Evaluacion.Pregunta_7.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Evaluacion.Pregunta_5.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Semana_10_Ejercicios_Patrones_Estructurales_CompositeDecorator.Ejercicios.Composite.Ejercicio_2.Main",
             "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
         },
