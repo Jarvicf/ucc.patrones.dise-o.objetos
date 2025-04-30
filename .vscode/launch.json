@@ -8,6 +8,55 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Semana_11_Patrones_Facade_Proxy_Flyweight.Ejercicios.Flyweight.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_11_Patrones_Facade_Proxy_Flyweight.Ejercicios.Proxy.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_11_Patrones_Facade_Proxy_Flyweight.Ejercicios.Facade.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_8_Patrones_Adapter_Bridge.Taller.SectorTransporte2.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_8_Patrones_Adapter_Bridge.Taller.SectorTransporte.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_8_Patrones_Adapter_Bridge.Taller.SectorFacturación2.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_8_Patrones_Adapter_Bridge.Taller.Sector_Facturación.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Semana_12_Evaluacion.Pregunta_7.Main",
             "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
         },
