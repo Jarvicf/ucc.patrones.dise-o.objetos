@@ -8,6 +8,62 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.Visitor.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.Memento.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.Mediator.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.State.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.ChainOfResponsibility.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.Command.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.Observer.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_12_Patrones_Comportamiento.Strategy.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Semana_11_Patrones_Facade_Proxy_Flyweight.Ejercicios.Flyweight.Main",
             "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
         },
