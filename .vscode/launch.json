@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RegistroConductorDemo",
+            "request": "launch",
+            "mainClass": "Ubber.src.com.transporte.RegistroConductorDemo",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Uber",
+            "request": "launch",
+            "mainClass": "Semana_15_ProyectoFinal.Uber",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Semana_15_Proyecto_Uber.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Proyecto_Final.App_Uber.Main",
+            "projectName": "ucc.patrones.dise-o.objetos-1_d9a6d86"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Semana_12_Patrones_Comportamiento.Visitor.Main",
